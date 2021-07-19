@@ -5,11 +5,11 @@ tagline: RONG for the World
 email: lirongthu@163.com
 description: >
   A mon départ, le saule en pleurs; Au retour tard, la neige en fleurs.
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+baseurl: "/rli"
+url: "https://github.com/rongli669"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+gh_sponsor: Rong Li
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
